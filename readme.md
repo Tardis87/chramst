@@ -136,17 +136,18 @@ Tak toto damy a pani, spusta celu hru!!! :
 
 ## 💡 CO SOM SA NAUCILA, CO BOLA PRE MNA VYZVA
 
-no, tak tu by som sa vedela rozpisat, ale skusim to drzat strucne. Naucila som sa vela, a vyzva bolo vsetko, kazdy jeden riadok kodu 
-1. Velke obavy boli z `while` cyklu
-2. Rozmyslat nad "problemamy" trochu inak:
-- rozobrat ich na male kusky, aj ked som si myslela ze uz to rozobrane je, pocas testovania som zistila ze sa daju rozbit na este mensie a este mensie kusky. Bezne bolo ze som musela "dorabat" kusky kodu spatne, pridavat nove premenne atd. 
-- aj najmensi problem moze byt ovela vacsi problem ako sa povodne ocakavalo, ale aj naopak, nieco s cim clovek si mysli ze bude bojovat, tak to nakoniec nebolo take zle
-3. Treba nejak zacat. Ja som mala x pokusov zacat, az nakoniec som si povedala, ideme do `Dictionaries`. 
-Uz ked som mala zadefinovanych hracov, prisla otazka ako dalej???
-Na papiery som si rozne mozne metody napisala, a to som ani len netusila ze o kolko viac ich realne bude
-4. Triedy: nevedela som si predstavit ako to tu cele spustim v ramci triedy
-5. Vdaka tomuto projektu som zistla o existencii roznych kniznic (nie vsetky som tu aj pouzial, proste pri hladani odpovedi som nasla kopu zaujimavych veci, ktore som v projekte nevyuzila), funkciach, strankach.. 
-6. naucila som sa robit dokumentaciu v md formate a rozne vychytavkay ako:
+Naucila som sa vela, a vyzva bolo vsetko - kazdy jeden riadok kodu! Tu su najvacsie lekcie: 
+
+1. ∞ Velke obavy boli z `while` cyklu a nekonecnych loopov, ktore sa nikdy nezastavia
+2. 🧠 Rozmyslat nad "problemamy" trochu inak:
+- ❗rozobrat ich na male kusky, aj ked som si myslela ze uz to rozobrane je, pocas testovania som zistila ze sa daju rozbit na este mensie a este mensie kusky. Bezne bolo ze som musela "dorabat" kusky kodu spatne, pridavat nove premenne atd. 
+- ❗aj najmensi problem moze byt ovela vacsi problem ako sa povodne ocakavalo, ale aj naopak, nieco s cim clovek si mysli ze bude bojovat, tak to nakoniec nebolo take zle
+3. 🔰Treba nejak zacat. Ja som mala x pokusov zacat, az nakoniec som si povedala, ideme do `Dictionaries`. 
+Uz ked som mala zadefinovanych hracov, prisla otazka *ako dalej???*
+Na papiery som si napisala rozne metody, a to som ani len netusila ze o kolko viac ich realne bude
+4. 📜 Triedy: nevedela som si predstavit ako to tu cele spustim v ramci tried
+5. 📖 Vdaka tomuto projektu som zistla o existencii roznych kniznic (nie vsetky som tu aj pouzial, proste pri hladani odpovedi som nasla kopu zaujimavych veci, ktore som v projekte nevyuzila), funkciach, strankach.. 
+6. 📓 naucila som sa robit dokumentaciu v md formate a rozne vychytavkay ako:
 
 - ked dame odrazku a medzeru tak mame ciernu gulicku 
 - ked napiseme `` tak nam to da do ramceku slovo :
