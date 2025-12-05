@@ -12,6 +12,9 @@
 mam tu ulozene 3 subory, relevantny je **chramst3.ipynb**
 zvysne dva chramsty su viac menej zaznamy mojej strastiplnej cesty. Su tam rozne verzie od mojich zaciatkov, po testovanie, aj nejake chyby a rozne myslienkove pochody, napady a vsetky komentare co som potrebovala k prezitiu. 
 
+**GITHUB PAGE**
+https://tardis87.github.io/chramst/
+
 ### ℹ Zakladne informacie
 - **pocet hracov:** 4 (Modry 🔵, Zlty 🟡, Zeleny 🟢, Cerveny 🔴)
 - **karty:** Kazdy hrac zacina so siestimy kartami v hodnote od 1 az 6
