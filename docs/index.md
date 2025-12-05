@@ -6,11 +6,14 @@
 
 ## UVOD / Pravidla, Priebeh kola, Ukoncenie kola atd
 
-**Chramst** je konzolova hra pre 4 hracov, kde cielom je prezit utoky zraloka. Hra existuje ako kartova hra, nebol to moj vymysel. Pravidla/hranie som musela prisposobit mojim programovacim schopnostiam a casu na vytvorenie projektu. Urcite je co vylepsovat, ale o planoch do buducnosti sa dozviete pod sekciou [Plany do buducnosti / Vylepsenia](#plan-s-chramst-do-buducnosti--vylepsenia) 
+**Chramst** je konzolova hra pre 4 hracov, kde cielom je prezit utoky zraloka. Hra existuje ako kartova hra, nebol to moj vymysel. Pravidla/hranie som musela prisposobit mojim programovacim schopnostiam a casu na vytvorenie projektu. Urcite je co vylepsovat, ale o planoch do buducnosti sa dozviete pod sekciou [Plany do buducnosti / Vylepsenia](#-plan-s-chramst-do-buducnosti--vylepsenia) 
 
 **Kde najst moj kod?**
 mam tu ulozene 3 subory, relevantny je **chramst3.ipynb**
 zvysne dva chramsty su viac menej zaznamy mojej strastiplnej cesty. Su tam rozne verzie od mojich zaciatkov, po testovanie, aj nejake chyby a rozne myslienkove pochody, napady a vsetky komentare co som potrebovala k prezitiu. 
+
+**GITHUB PAGE**
+https://tardis87.github.io/chramst/
 
 ### ℹ Zakladne informacie
 - **pocet hracov:** 4 (Modry 🔵, Zlty 🟡, Zeleny 🟢, Cerveny 🔴)
